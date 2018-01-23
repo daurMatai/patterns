@@ -6,5 +6,5 @@ abstract class Unit
     {
         return null;
     }
-    abstract function bombardStrength();
+    public abstract function bombardStrength();
 }
