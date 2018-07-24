@@ -1,0 +1,16 @@
+{
+    "name": "design patterns on php",
+    "type": "learning",
+    "authors": [
+        {
+            "name": "Dauren Bablanov",
+            "email": "bablanov.dauren@yandex.kz"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Patterns\\": "patterns/"
+        }
+    }
+}
